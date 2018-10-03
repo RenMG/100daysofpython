@@ -16,7 +16,11 @@ def collatz(number):
         print('not a fucking number')
 
 print('Give me an integer: ')
-input_num = int(input())
+try:
+    input_num = int(input())
+except NameError:
+    print('Error: Please enter a number')
+
 
 while input_num != 1:
     print('Current calc: {0}').format(input_num)
