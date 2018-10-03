@@ -16,8 +16,8 @@ The only time a day is allowed to be missed is if Rita and I go out of town and 
 
 ## Keeping Track!
 At the top of every file add a title and a day count:
-> # ABS- Page ## <Project title>
-> # Day x of 100
+> ##### ABS- Page ## <Project title>
+> ##### Day x of 100
 
 Here it notes ABS (Automate the Boring Stuff)- Page Number for reference and Project or test name.
 
